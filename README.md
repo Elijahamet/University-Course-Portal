@@ -1,5 +1,6 @@
 
 
+
 🎓 University Course Portal
 
 A modern Next.js 13+ web application designed to simplify student life. The portal allows students to:
